@@ -1,4 +1,4 @@
-# brkb_volatility_forecast
+# brkb_svm_volatility_forecast
 
 - This project predicts future volatility of **$BRKB** (Berkshire Hathaway) using a PyTorch neural network and classifies volatility as good or bad with an SVM model.
 - It includes data preprocessing, model training, and visualization of predictions.
@@ -7,7 +7,7 @@
 - Accuracy: Average confidence in predicting bad volatility.
 
 ## Files
-- `brkb_volatility_forecast.py`: Main script for training and predicting volatility.
+- `brkb_svm_volatility_forecast.py`: Main script for training and predicting volatility.
 - `BRKB.csv`: Dataset containing historical stock prices of $BRKB.
 - No output image file is generated; visualization is displayed interactively via Plotly.
 
