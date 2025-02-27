@@ -9,7 +9,7 @@
 ## Files
 - `brkb_svm_volatility_forecast.py`: Main script for training and predicting volatility.
 - `BRKB.csv`: Dataset containing historical stock prices of $BRKB.
-- No output image file is generated; visualization is displayed interactively via Plotly.
+- `output.png`: Plot.
 
 ## Libraries Used
 - `numpy`
