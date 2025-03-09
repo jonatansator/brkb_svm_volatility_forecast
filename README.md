@@ -21,3 +21,7 @@
 ## Timeframe
 - **Input**: Data ranges from **2023-05-01** to the latest date in `BRKB.csv`.
 - **Output**: Predicts the next 10 days of volatility and classifies volatility periods.
+
+## Screenshots
+![output](output.png)
+
